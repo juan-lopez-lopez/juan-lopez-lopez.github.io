@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PUBLICACIONES on Airspace | Creative Agency Hugo Template</title>
+    <link>https://juan-lopez-lopez.github.io/publicaciones/</link>
+    <description>Recent content in PUBLICACIONES on Airspace | Creative Agency Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 16 Jan 2019 13:05:29 +0600</lastBuildDate>
+    
+	<atom:link href="https://juan-lopez-lopez.github.io/publicaciones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Radio Parasites</title>
+      <link>https://juan-lopez-lopez.github.io/publicaciones/001/</link>
+      <pubDate>Wed, 16 Jan 2019 13:05:29 +0600</pubDate>
+      
+      <guid>https://juan-lopez-lopez.github.io/publicaciones/001/</guid>
+      <description>Escuchar
+El imperceptible mundo electromagnético que nos rodea contiene información del espacio sociocultural que habitamos, al que normalmente solo pueden acceder las personas e instituciones que poseen y regulan legalmente el espectro electromagnético.</description>
+    </item>
+    
+    <item>
+      <title>Trash Fires Gutter In Steel Canister</title>
+      <link>https://juan-lopez-lopez.github.io/publicaciones/002/</link>
+      <pubDate>Wed, 15 Feb 2017 13:05:29 +0600</pubDate>
+      
+      <guid>https://juan-lopez-lopez.github.io/publicaciones/002/</guid>
+      <description>Escuchar
+&amp;ldquo;Los fuegos de basura caen en botes de acero alrededor del Mercado. La nieve todavía cae y los niños se apiñan sobre las llamas como cuervos artríticos, saltando de pie en pie, el viento azotando sus abrigos oscuros.</description>
+    </item>
+    
+    <item>
+      <title>Del Bosque a la Olla</title>
+      <link>https://juan-lopez-lopez.github.io/publicaciones/003/</link>
+      <pubDate>Sun, 15 Mar 2015 13:05:29 +0600</pubDate>
+      
+      <guid>https://juan-lopez-lopez.github.io/publicaciones/003/</guid>
+      <description>Leer
+Del Bosque a la Olla es una publicacion de la ONG Patrimonio Natural para la que realice todas las ilustraciones de ingredientes y platos en tinta con pincel y aguatinta.</description>
+    </item>
+    
+  </channel>
+</rss>

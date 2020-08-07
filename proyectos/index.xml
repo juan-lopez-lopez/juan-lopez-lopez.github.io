@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PROYECTOS on Airspace | Creative Agency Hugo Template</title>
+    <link>https://juan-lopez-lopez.github.io/proyectos/</link>
+    <description>Recent content in PROYECTOS on Airspace | Creative Agency Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 15 Nov 2016 13:05:29 +0600</lastBuildDate>
+    
+	<atom:link href="https://juan-lopez-lopez.github.io/proyectos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taller de Amplificadores Hechizos</title>
+      <link>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-5/</link>
+      <pubDate>Tue, 15 Nov 2016 13:05:29 +0600</pubDate>
+      
+      <guid>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-5/</guid>
+      <description>Taller de Amplificadores Hechizos Este laboratorio fue una iniciativa social dentro del proyecto &amp;ldquo;Viajeros Radiofonicos&amp;rdquo; que buscaba crear una emisora ambulante en el barrio Los Laches en Bogota. Para ayudar a crear la infrestructura diseñe un amplificador hecho con la tecnica &amp;ldquo;deadbug&amp;rdquo;, conectando directamente los componentes sin una pcb (printed circuit board)</description>
+    </item>
+    
+    <item>
+      <title>Deconstruccion de la Fotografia</title>
+      <link>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-3/</link>
+      <pubDate>Thu, 29 Sep 2016 13:05:29 +0600</pubDate>
+      
+      <guid>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-3/</guid>
+      <description>Consiste en la realización de una serie fotográfica colectiva con las temáticas paisaje industrial y fotografía de fábricas, donde la metodología de creación artística tiene como punto de partida la construcción de una máquina: (El dispositivo fotográfico alternativo).</description>
+    </item>
+    
+    <item>
+      <title>TORMENTA</title>
+      <link>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-4/</link>
+      <pubDate>Fri, 29 Jul 2016 13:05:29 +0600</pubDate>
+      
+      <guid>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-4/</guid>
+      <description>Tormenta es una exposición de arte que reúne obras de los artistas William Aparicio, Alejandro Villegas, Juan José López, Juan Cortés, Karen Aune, Sergio Bedoya, Juan Cortés, Iván Herrera, Raúl Marroquín, Andrés Moreno, Sandra Rengifo y Danilo Rojas.</description>
+    </item>
+    
+    <item>
+      <title>Transducciones</title>
+      <link>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-2/</link>
+      <pubDate>Wed, 29 Jun 2016 13:05:29 +0600</pubDate>
+      
+      <guid>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-2/</guid>
+      <description>Este taller propuso durante dos semanas un espacio donde se exploraron los procesos sonoros de transducción y resonancia, donde se pretendía que los participantes pudieran entender y percibir el sonido de una manera diferente, experimentando con su propagación en diferentes materiales y en los diferentes estados de la materia.</description>
+    </item>
+    
+    <item>
+      <title>Maquinas Hechizas</title>
+      <link>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-1/</link>
+      <pubDate>Fri, 15 Apr 2016 13:05:29 +0600</pubDate>
+      
+      <guid>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-1/</guid>
+      <description>Maquinas Hechizas fue un laboratorio que se planteo como un espacio de creación conjunta, que buscaba desarrollar objetos y herramientas diversas a partir de aparatos en desuso como materia prima esencial, en este caso: computadores, impresoras y electrodomesticos desechados.</description>
+    </item>
+    
+    <item>
+      <title>...</title>
+      <link>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-6/</guid>
+      <description>&amp;hellip; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>...</title>
+      <link>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juan-lopez-lopez.github.io/proyectos/rio-furniture-7/</guid>
+      <description>&amp;hellip; &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
